@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **SQL ,Excel ,Python , Tableau**
 
-- 📫 How to reach me **monalisha05kumari@gmail.com**
+- 📫 How to reach me **imonalishakumari@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
