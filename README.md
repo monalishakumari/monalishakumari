@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://monalishakumari.medium.com/](https://monalishakumari.medium.com/)
 
-- 💬 Ask me about **SQL ,Excel ,Python , Tableau**
+- 💬 Ask me about **SQL ,Excel ,PowerBI,Python , Tableau**
 
 - 📫 How to reach me **imonalishakumari@gmail.com**
 
